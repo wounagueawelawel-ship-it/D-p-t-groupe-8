@@ -1,3 +1,3 @@
-# D-p-t-groupe-8
-ff
-Ready 
+# include <stdio.h>
+# include<stdlib.h> 
+   int.......
